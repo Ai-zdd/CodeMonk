@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca2f6fd8671304d3dbed0fffb487dd36
+timeCreated: 1507963013
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boom: {instanceID: 0}
+  - grappleGround: {instanceID: 0}
+  - winBattleImg: {instanceID: 0}
+  - loseBattleImg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
